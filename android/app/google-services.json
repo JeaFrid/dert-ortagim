@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "562024769149",
+    "firebase_url": "https://dertortagi-276f4-default-rtdb.firebaseio.com",
+    "project_id": "dertortagi-276f4",
+    "storage_bucket": "dertortagi-276f4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562024769149:android:ea8adecd3e9fdc3328b314",
+        "android_client_info": {
+          "package_name": "com.dertortagim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFL7LAgzXm0z9WR3Vhwb7dJdpvMMiRaX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
